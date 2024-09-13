@@ -1,4 +1,4 @@
-# [NJU-EE Autonomous Driving Research Group](https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/)
+# [NJU-EE Autonomous Driving Research Group](https://nju-ee.github.io/AutonomousDrivingResearchGroup.page/)
 
 ## NJU-EE Autonomous Driving Research Group英文版网页项目
 HUGO_VERSION = "0.125.7"<br>

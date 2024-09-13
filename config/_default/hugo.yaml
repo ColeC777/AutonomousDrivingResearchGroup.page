@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: NJU-EE Autonomous Driving Research Group # Website name
-baseURL: 'https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/' # Website URL
+baseURL: 'https://nju-ee.github.io/AutonomousDrivingResearchGroup.page/' # Website URL
 
 ############################
 ## LANGUAGE
